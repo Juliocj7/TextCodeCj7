@@ -21,7 +21,7 @@
 ![Screenshot_20211004-134111_Termux](https://user-images.githubusercontent.com/81049859/135907536-a6106214-ea1e-41e3-9062-078e8926bceb.png)
 
 ## TextCodeCj7 :
-* **Codifica y Decodifica** URI (o fragmentos de la misma) de una manera rápida y sencilla.
+* **Codifica y Decodifica** texto usando los sistemas **Braille y Morse** de una manera rápida y sencilla.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
