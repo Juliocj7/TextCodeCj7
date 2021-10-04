@@ -12,10 +12,13 @@
 </details>
 
 ## Menú Principal :
+![Screenshot_20211004-132917_Termux](https://user-images.githubusercontent.com/81049859/135907493-2bc48407-4355-428b-a963-0450427ec304.png)
 
 ## Sistema Braille :
+![Screenshot_20211004-133335_Termux](https://user-images.githubusercontent.com/81049859/135907511-1ff82932-fdea-4a21-9f35-3a4589d2102d.png)
 
 ## Sistema Morse :
+![Screenshot_20211004-134111_Termux](https://user-images.githubusercontent.com/81049859/135907536-a6106214-ea1e-41e3-9062-078e8926bceb.png)
 
 ## TextCodeCj7 :
 * **Codifica y Decodifica** URI (o fragmentos de la misma) de una manera rápida y sencilla.
