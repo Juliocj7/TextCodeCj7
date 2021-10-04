@@ -25,6 +25,11 @@
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
+## TipsCj7 :
+
+* No intentar codificar caracteres "complejos".
+* Ser lo más simple y concreto posible :)
+
 ## Instalación :
 
 * Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
