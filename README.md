@@ -39,7 +39,7 @@
 ## TipsCj7 :
 
 * No intentar codificar caracteres "complejos".
-* Ser lo más simple y concreto posible :)
+* Ser lo más simple y concreto posible :stuck_out_tongue_closed_eyes:
 
 ## Instalación :
 
