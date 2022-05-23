@@ -26,12 +26,9 @@
 ![Screenshot_20220523-155736_Termux](https://user-images.githubusercontent.com/81049859/169896348-a9829ce6-cf1f-4897-a8cf-87ec52d9ec26.png)
 
 
-## Sistema Braille :
-![Screenshot_20220523-154423_Termux](https://user-images.githubusercontent.com/81049859/169896377-a12f0825-f09a-464f-a11e-13c7a005634b.png)
-
-
-## Sistema Morse :
-![Screenshot_20220523-154145_Termux](https://user-images.githubusercontent.com/81049859/169896400-31316a94-9b8d-4bc2-8b80-de2385ec2f7d.png)
+|Sistema Braille | Sistema Morse|
+|----------|----------|
+|![Screenshot_20220523-154423_Termux](https://user-images.githubusercontent.com/81049859/169896377-a12f0825-f09a-464f-a11e-13c7a005634b.png)|![Screenshot_20220523-154145_Termux](https://user-images.githubusercontent.com/81049859/169896400-31316a94-9b8d-4bc2-8b80-de2385ec2f7d.png)|
 
 
 ## TextCodeCj7 :
