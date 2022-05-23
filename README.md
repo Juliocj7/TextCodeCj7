@@ -23,13 +23,16 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20211004-132917_Termux](https://user-images.githubusercontent.com/81049859/135907493-2bc48407-4355-428b-a963-0450427ec304.png)
+![Screenshot_20220523-155736_Termux](https://user-images.githubusercontent.com/81049859/169896348-a9829ce6-cf1f-4897-a8cf-87ec52d9ec26.png)
+
 
 ## Sistema Braille :
-![Screenshot_20211004-133335_Termux](https://user-images.githubusercontent.com/81049859/135907511-1ff82932-fdea-4a21-9f35-3a4589d2102d.png)
+![Screenshot_20220523-154423_Termux](https://user-images.githubusercontent.com/81049859/169896377-a12f0825-f09a-464f-a11e-13c7a005634b.png)
+
 
 ## Sistema Morse :
-![Screenshot_20211004-134111_Termux](https://user-images.githubusercontent.com/81049859/135907536-a6106214-ea1e-41e3-9062-078e8926bceb.png)
+![Screenshot_20220523-154145_Termux](https://user-images.githubusercontent.com/81049859/169896400-31316a94-9b8d-4bc2-8b80-de2385ec2f7d.png)
+
 
 ## TextCodeCj7 :
 * **Codifica y Decodifica** texto usando los sistemas **Braille y Morse** de una manera rápida y sencilla.
