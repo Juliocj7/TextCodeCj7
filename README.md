@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220523-155736_Termux](https://user-images.githubusercontent.com/81049859/169896348-a9829ce6-cf1f-4897-a8cf-87ec52d9ec26.png)
+![Screenshot_20221228-175359_Termux](https://user-images.githubusercontent.com/81049859/209880411-46958639-0515-4a5c-8993-fd80e3674d1e.png)
 
 |Sistema Braille | Sistema Morse|
 |----------|----------|
