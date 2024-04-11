@@ -35,8 +35,8 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## TipsCj7 :
-* No intentar codificar caracteres "complejos" :stuck_out_tongue:
-* Ser lo más simple y concreto posible :stuck_out_tongue_closed_eyes:
+> [!TIP]
+> Intentar no codificar caracteres complejos, es decir, ser lo más simple y concreto posible :stuck_out_tongue_closed_eyes:
 
 ## Instalación :
 > [!NOTE]  
