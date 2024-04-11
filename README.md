@@ -34,9 +34,9 @@
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
-## TipsCj7 :
+## Sugerencia :
 > [!TIP]
-> Intentar no codificar caracteres complejos, es decir, ser lo más simple y concreto posible :stuck_out_tongue_closed_eyes:
+> Intentar no codificar caracteres complejos, es decir, ser lo más simple y concreto posible.
 
 ## Instalación :
 > [!NOTE]  
