@@ -45,34 +45,36 @@ ______________________________________________________
 ## Menú Principal :
 ![1000328316](https://github.com/Juliocj7/TextCodeCj7/assets/81049859/39ce0d7f-7e8e-43aa-8888-40fdf6a2ef76)
 
+## Ejemplos :
+
 |Sistema Braille | Sistema Morse|
 |----------|----------|
 |![1000328318](https://github.com/Juliocj7/TextCodeCj7/assets/81049859/ce3dd4bf-0968-478c-9e8d-5ada0bb02426)|![1000328317](https://github.com/Juliocj7/TextCodeCj7/assets/81049859/c85c586f-dd1c-43aa-8f4a-be0a8600aab6)|
 
-## TextCodeCj7 :
-* **Codifica y Decodifica** texto usando los sistemas **Braille y Morse** de una manera rápida y sencilla.
-* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
-- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
-
-## Sugerencia :
 > [!TIP]
 > Intentar no codificar caracteres complejos, es decir, ser lo más simple y concreto posible.
+
+## TextCodeCj7 :
+* Codifica y decodifica texto usando los sistemas **Braille** y **Morse** de una manera rápida y sencilla.
+* Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
+- > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 ## Instalación :
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* ` git clone https://github.com/Juliocj7/TextCodeCj7 `
-
-* ` cd TextCodeCj7 `
-
-* ` chmod +x * `
-
-* ` ./TextCodeCj7 `
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/TextCodeCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd TextCodeCj7 && chmod +x * && ./TextCodeCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
