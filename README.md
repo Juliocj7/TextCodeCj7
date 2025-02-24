@@ -50,7 +50,7 @@
 |![1000328318](https://github.com/Juliocj7/TextCodeCj7/assets/81049859/ce3dd4bf-0968-478c-9e8d-5ada0bb02426)|![1000328317](https://github.com/Juliocj7/TextCodeCj7/assets/81049859/c85c586f-dd1c-43aa-8f4a-be0a8600aab6)|
 
 > [!TIP]
-> > Trata de no codificar caracteres complejos (ser lo más simple y concreto posible).
+> > 𝚃𝚛𝚊𝚝𝚊 𝚍𝚎 𝚗𝚘 𝚌𝚘𝚍𝚒𝚏𝚒𝚌𝚊𝚛 𝚌𝚊𝚛𝚊𝚌𝚝𝚎𝚛𝚎𝚜 𝚌𝚘𝚖𝚙𝚕𝚎𝚓𝚘𝚜 (𝚜𝚎𝚛 𝚕𝚘 𝚖á𝚜 𝚜𝚒𝚖𝚙𝚕𝚎 𝚢 𝚌𝚘𝚗𝚌𝚛𝚎𝚝𝚘 𝚙𝚘𝚜𝚒𝚋𝚕𝚎).
 
 ## TextCodeCj7 :
 * Codifica y decodifica texto usando los sistemas **Braille** y **Morse** de una manera rápida y sencilla.
